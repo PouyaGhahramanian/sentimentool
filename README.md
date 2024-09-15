@@ -1,0 +1,2 @@
+# sentimentool
+Sentiment Analyzer Tool
